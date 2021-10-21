@@ -2,7 +2,7 @@
 
 
 // 要素
-const music = new Audio('https://drive.google.com/uc?id=1jXk5QG1PEqa8HLj4bg19tRFRtDwrI2io');
+const music = new Audio('https://drive.google.com/uc?id=11ENGhuGNWs4Z8xx2Qb7N9SRywnOEOd0r');
 const play = document.getElementById('play');
 var img_play = document.getElementById('img_play');
 
